@@ -35,11 +35,11 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-05-29 09:08:12.670376477 UTC",
     "Validated By": "taft-bitmain",
     "Active": true,
-    "Updated At": "2024-05-29 09:08:12.670381543 UTC",
+    "Updated At": "2024-05-29 09:28:12.999486881 UTC",
     "Active Request ID": "00a944e8-4659-40ca-99c2-c6600ada41ef",
     "On Chain Address": "f1gspyuj2pmwwv2sfjj6xdoqg5bojt7pzsubfb7oy",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-05-29 09:08:12.670383553 UTC",
       "Updated At": "2024-05-29 09:08:12.670385078 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "512TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "taft-bitmain",
+          "Signing Address": "f1foffaxmwijkw7hlhoqd5weighivmhkcr5xfeqsy",
+          "Created At": "2024-05-29 09:28:08.801000000 UTC",
+          "Message CID": "bafy2bzacedflqpznj5fr2r24axqzw5kq3eqyjil64sqy4ljsjhjjt7pdnpojq"
+        }
+      ]
     }
   ]
 }
