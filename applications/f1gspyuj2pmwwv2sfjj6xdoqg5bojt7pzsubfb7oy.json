@@ -35,12 +35,12 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
-    "Validated At": "2025-02-11 07:03:42.070469380 UTC",
+    "State": "ReadyToSign",
+    "Validated At": "2025-04-18 09:48:17.643061470 UTC",
     "Validated By": "taft-bitmain",
     "Active": true,
-    "Updated At": "2025-02-11 07:03:42.070465324 UTC",
-    "Active Request ID": "f11f563f-488c-4c90-97c3-7a3ce964da42",
+    "Updated At": "2025-04-18 09:48:17.643064744 UTC",
+    "Active Request ID": "61e6217e-2655-4d6c-81e4-5f026cdfc2a5",
     "On Chain Address": "f1gspyuj2pmwwv2sfjj6xdoqg5bojt7pzsubfb7oy",
     "Multisig Address": "false",
     "edited": false
@@ -77,6 +77,15 @@
           "Message CID": "bafy2bzaceb3tqr2shltp43pkacqvlpsysrrqdcxjum74p5fdhax3yvpbew6qg"
         }
       ]
+    },
+    {
+      "ID": "61e6217e-2655-4d6c-81e4-5f026cdfc2a5",
+      "Request Type": "Refill",
+      "Created At": "2025-04-18 09:48:17.643070210 UTC",
+      "Updated At": "2025-04-18 09:48:17.643071198 UTC",
+      "Active": true,
+      "Allocation Amount": "2251799813685248B",
+      "Signers": []
     }
   ]
 }
